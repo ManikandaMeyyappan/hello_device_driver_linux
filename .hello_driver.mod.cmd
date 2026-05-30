@@ -1,0 +1,1 @@
+savedcmd_/home/mani/device_drivers/hello_driver/hello_driver.mod := printf '%s\n'   hello_driver.o | awk '!x[$$0]++ { print("/home/mani/device_drivers/hello_driver/"$$0) }' > /home/mani/device_drivers/hello_driver/hello_driver.mod

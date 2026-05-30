@@ -1,0 +1,1 @@
+savedcmd_/home/mani/device_drivers/hello_driver/hello_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/mani/device_drivers/hello_driver/hello_driver.ko /home/mani/device_drivers/hello_driver/hello_driver.o /home/mani/device_drivers/hello_driver/hello_driver.mod.o

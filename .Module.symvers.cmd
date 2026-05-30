@@ -1,0 +1,1 @@
+savedcmd_/home/mani/device_drivers/hello_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/mani/device_drivers/hello_driver/Module.symvers -T /home/mani/device_drivers/hello_driver/modules.order -i Module.symvers -e 
